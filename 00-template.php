@@ -25,9 +25,11 @@
                 </svg>
             </a>
       
-            <h1 class="text-2xl">Main Mesnu</h1>
+            <h1 class="text-2xl">Main Menu</h1>
         </header>
-       
+        <section class="p-5 my-y overflow-auto h-[524]">
+
+</section>
     </main>
     <script src="js/tailwind-3.2.4.js"></script>
 </body>

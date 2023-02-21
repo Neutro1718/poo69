@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Class</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="min-h-[100vh] flex justify-center items-center text-gray-800">
@@ -26,7 +26,7 @@
       
             <h1 class="text-2xl">Main Menu</h1>
         </header>
-        <section class="min h-[515px] overflow-y-auto m-4">
+        <section class="p-5 my-y overflow-auto h-[524]">
             <?php
          class vehiculo{
  //atributos
